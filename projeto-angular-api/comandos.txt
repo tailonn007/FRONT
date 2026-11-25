@@ -1,0 +1,15 @@
+DEPOIS DE CRIAR O PROJETO :
+
+git add .
+
+git commit -m "base do PROJETO"
+
+git branch
+
+git push -u origin 6-angular-api 
+
+------------------
+
+INSTALAR NO PROJETO
+
+npm i -D json-server
