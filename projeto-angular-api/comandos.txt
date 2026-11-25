@@ -13,3 +13,20 @@ git push -u origin 6-angular-api
 INSTALAR NO PROJETO
 
 npm i -D json-server
+
+--------------------
+
+NO ARQUIVO PACKAGE.json
+
+"api": "json-server db.json --port 3001"
+
+
+---------------------
+
+COMANDOS ANGULAR
+
+npx ng g c components/cabecalho
+npx ng g c components/rodape
+npx ng g c pages/home
+npx ng g c pages/usuarios
+npx ng g c pages/cadastrar
