@@ -30,3 +30,6 @@ npx ng g c components/rodape
 npx ng g c pages/home
 npx ng g c pages/usuarios
 npx ng g c pages/cadastrar
+
+npx ng g s service/usuario 
+npx ng g interface models/usuario      
